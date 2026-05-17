@@ -1,121 +1,69 @@
-````md
 <div align="center">
 
 # 👋 Hey, I'm Naitik Soni
 
-### Cybersecurity Learner • Web Security Enthusiast • Python Security Tool Developer
+### 🛡️ Cybersecurity Learner • Web Security • OSINT • Python Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=Cybersecurity+Research+%26+Learning;Web+Security+%7C+OSINT+%7C+Reconnaissance;Python-Based+Security+Automation;Building+NS+Security+Projects;Ethical+Hacking+%26+Continuous+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Web+Security+Enthusiast;Python+Security+Developer;OSINT+%26+Recon+Learning;Building+NS+Security+Projects" />
 
 </div>
 
 ---
 
-# 🛡️ About Me
+## ⚔️ About Me
 
-I am a passionate cybersecurity learner focused on understanding how real-world cyber attacks are discovered, analyzed, and prevented.
-
-My interests include:
-
-- 🌐 Web Application Security
-- 🔎 Reconnaissance & Attack Surface Mapping
-- 🧠 OSINT & Infrastructure Intelligence
-- 🐍 Python-Based Security Automation
-- 🔐 Vulnerability Assessment & Security Research
-
-I believe cybersecurity is not only about tools — it is about mindset, curiosity, and continuous learning.
-
----
-
-# ⚡ Current Learning Focus
-
-```txt
-• Web Security Fundamentals
-• Ethical Hacking Methodologies
-• Network & Infrastructure Security
-• Security Automation using Python
-• Reconnaissance & OSINT Techniques
-• Vulnerability Discovery & Analysis
-````
+```yaml
+Name: Naitik Soni
+Username: NScyber1417
+Focus: Cybersecurity & Ethical Hacking
+Learning: Web Security, Recon, OSINT
+Projects: NSphotoX, WebInfoX, NS-Scanner
+Goal: Cybersecurity Analyst
+```
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🔎 WebInfoX
-
-Python-based reconnaissance toolkit built for infrastructure discovery, DNS intelligence, security header analysis, and structured reporting.
-
-### Core Features
-
-* WHOIS Lookup
-* DNS Enumeration
-* SSL/TLS Analysis
-* Security Header Detection
-* IP Intelligence Gathering
-* Infrastructure Footprinting
+Python-based reconnaissance toolkit for:
+- WHOIS Lookup
+- DNS Enumeration
+- SSL Analysis
+- Security Headers
+- Infrastructure Mapping
 
 ---
 
 ## 📸 NSphotoX
-
-Advanced image OSINT & metadata forensic toolkit designed for digital investigations and cybersecurity research.
-
-### Core Features
-
-* EXIF Metadata Analysis
-* GPS Intelligence Extraction
-* Image Hashing
-* OCR Integration
-* Digital Footprint Analysis
+Advanced image OSINT & metadata forensic toolkit:
+- EXIF Analysis
+- GPS Intelligence
+- OCR Support
+- Metadata Investigation
 
 ---
 
-## 🛡️ NS-Scanner *(In Progress)*
+# 🧠 Skills & Interests
 
-Upcoming reconnaissance and security scanning toolkit focused on automation, attack surface mapping, and beginner-friendly security learning.
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
 
-# 🧠 Cybersecurity Exposure
+</p>
 
-During my cybersecurity learning journey and internship experience, I gained hands-on exposure to:
+<p align="center">
 
-* Cross-Site Scripting (XSS)
-* Information Disclosure
-* Security Misconfigurations
-* Web Reconnaissance
-* DNS Enumeration
-* HTTP Header Security Analysis
-* SSL/TLS Security Evaluation
-* Infrastructure Analysis
-* OSINT Methodologies
-
----
-
-# 🛠️ Tech Stack & Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Web%20Security-0D1117?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Web_Security-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OSINT-00FF66?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Bug%20Bounty-161B22?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ethical%20Hacking-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug_Bounty-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -131,9 +79,9 @@ During my cybersecurity learning journey and internship experience, I gained han
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/NaitikSoni1417">
 <img src="https://img.shields.io/badge/GitHub-NaitikSoni1417-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -149,9 +97,6 @@ During my cybersecurity learning journey and internship experience, I gained han
 
 <div align="center">
 
-## ⚔️ Ethical Hacking • Security Research • Open Source Learning
-
-### "Stay Ethical • Stay Legal • Stay Secure 🇮🇳"
+## 🛡️ Stay Ethical • Stay Legal • Stay Secure 🇮🇳
 
 </div>
-```
