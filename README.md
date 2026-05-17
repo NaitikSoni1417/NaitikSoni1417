@@ -292,11 +292,19 @@ Beginners, intermediate, and advanced learners are welcome with a professional &
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/naitiksoni1417">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://chat.whatsapp.com/E6d20TfdlWRFy2HaB2fEjY">
+<img src="https://img.shields.io/badge/WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb6pxgWAjPXVeX5PCf2a">
+<img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-00ff99?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
+
 </div>
-
----
-
-<div align="center">
 
 # 🛡️ Stay Ethical • Stay Legal • Stay Secure 🇮🇳
 
