@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:001a0d,50:00ff99,75:00331a,100:000000&text=Naitik%20Soni&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20•%20Ethical%20Hacker%20•%20AI%20Automation%20Expert&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:001a0d,50:00ff99,75:00331a,100:000000&text=Naitik%20Soni&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20•%20Ethical%20Hacker%20•%20AI%20Automation%20Expert&descAlignY=60"/>
 
 <br>
 
@@ -33,8 +33,8 @@ Roles:
   - Penetration Tester
   - Full Stack Developer
   - Digital Forensics Researcher
-  - OSINT Specialist
   - Malware Analysis Learner
+  - OSINT Specialist
   - Security Researcher
   - AI Automation Expert
 
@@ -42,10 +42,11 @@ Founder:
   - NS Indian Cyber Army 🇮🇳
 
 Mission:
-  - Learn Advanced Cybersecurity
   - Build Powerful Security Tools
+  - Learn Advanced Cybersecurity
   - Spread Cyber Awareness
-  - Create AI + Cybersecurity Workflows
+  - Promote Ethical Hacking
+  - Build India's Ethical Cyber Force
 
 Mindset:
   Think Like An Attacker.
@@ -72,8 +73,6 @@ Mindset:
 
 <img src="https://img.shields.io/badge/Network_Security-00bfff?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SIEM-44cc44?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Threat_Intelligence-7b2cbf?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Digital_Forensics-ffaa00?style=for-the-badge"/>
@@ -81,8 +80,6 @@ Mindset:
 <img src="https://img.shields.io/badge/Web_App_Security-6677ff?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Reconnaissance-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Infrastructure_Intelligence-00ff99?style=for-the-badge"/>
 
 </div>
 
@@ -98,7 +95,7 @@ Mindset:
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Security Tools & Technologies
 
 <div align="center">
 
@@ -130,7 +127,7 @@ Mindset:
 
 ## 🔎 WebInfoX
 
-Advanced reconnaissance toolkit built for:
+Advanced reconnaissance framework built for:
 
 - DNS Enumeration
 - WHOIS Intelligence
@@ -146,7 +143,7 @@ Advanced reconnaissance toolkit built for:
 
 ## 📸 NSphotoX
 
-Digital forensics & OSINT toolkit:
+Digital Forensics & OSINT Toolkit:
 
 - EXIF Metadata Analysis
 - GPS Intelligence Extraction
@@ -168,26 +165,96 @@ Digital forensics & OSINT toolkit:
 ✔ Hall Of Fame Mentions
 ✔ Founder of NS Indian Cyber Army 🇮🇳
 ✔ Built Multiple Cybersecurity Tools
-✔ AI + Cybersecurity Workflow Expertise
 ✔ Active Security Research Learner
+✔ AI + Cybersecurity Workflow Expertise
 ✔ Community Builder & Knowledge Sharer
 ```
 
 ---
 
-# 🌍 NS Indian Cyber Army 🇮🇳
+# 🇮🇳 NS Indian Cyber Army
 
 <div align="center">
 
-### Founder & Community Lead
+<img width="320" src="https://raw.githubusercontent.com/NaitikSoni1417/NaitikSoni1417/main/ns-logo.png"/>
 
-Cybersecurity community focused on:
+</div>
 
-🛡️ Ethical Hacking  
-🔍 OSINT & Reconnaissance  
-💻 Security Research  
-📚 Knowledge Sharing  
-🚀 Learning & Community Growth  
+---
+
+## 🛡️ About The Community
+
+NS Indian Cyber Army 🇮🇳 is a professional Indian cybersecurity & ethical hacking community built for learning, growth, awareness, and digital defense.
+
+Our mission is to create a strong, ethical, and skilled cyber force in India by promoting:
+
+- Knowledge Sharing
+- Skill Development
+- Responsible Hacking
+- Cyber Awareness
+- Ethical Security Practices
+
+---
+
+## 👥 Who This Community Is For
+
+✔ Ethical Hackers  
+✔ Cybersecurity Students  
+✔ Bug Bounty Hunters  
+✔ Red Team / Blue Team Learners  
+✔ OSINT Researchers  
+✔ Security Enthusiasts  
+
+Beginners, intermediate, and advanced learners are welcome with a professional & ethical mindset.
+
+---
+
+## 🎯 Community Mission
+
+✅ Learn cybersecurity legally & responsibly  
+✅ Protect digital systems, networks, and data  
+✅ Share knowledge ethically  
+✅ Represent India with discipline & skills  
+✅ Encourage collaboration & learning  
+
+---
+
+## ⚖️ Community Rules
+
+```txt
+1️⃣ No Spam
+2️⃣ Respect Privacy
+3️⃣ No Scamming or Selling
+4️⃣ Respectful Communication
+5️⃣ No Self-Promotion Without Approval
+6️⃣ Follow Cyber Laws
+7️⃣ Admin Decisions Are Final
+```
+
+---
+
+## 🚀 What You Will Gain
+
+✔ Cybersecurity Learning Resources  
+✔ Ethical Hacking Guidance  
+✔ Bug Bounty Support  
+✔ Networking Opportunities  
+✔ Defensive Security Mindset  
+✔ Community Learning Environment  
+
+---
+
+# 🌐 Community Links
+
+<div align="center">
+
+<a href="https://chat.whatsapp.com/E6d20TfdlWRFy2HaB2fEjY">
+<img src="https://img.shields.io/badge/WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb6pxgWAjPXVeX5PCf2a">
+<img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-00ff99?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
 
 </div>
 
@@ -207,13 +274,13 @@ Cybersecurity community focused on:
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaitikSoni1417&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaitikSoni1417&theme=react-dark&hide_border=true&bg_color=000000"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -225,25 +292,13 @@ Cybersecurity community focused on:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://whatsapp.com/channel/0029Vb6pxgWAjPXVeX5PCf2a">
-<img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-# ⚡ "Eat • Sleep • Hack • Repeat"
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaitikSoni1417&theme=react-dark&hide_border=true&bg_color=000000"/>
-
-<br><br>
+# 🛡️ Stay Ethical • Stay Legal • Stay Secure 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:00ff99,100:001a0d&section=footer"/>
 
